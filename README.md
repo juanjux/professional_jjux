@@ -1,2 +1,2 @@
 # professional_jjux
-My variant of Vim's professional colorscheme
+This is my variant of iyerns's Vim professional colorscheme. It changed the "orange" color that blends too much with the yellow background for a bright red and also uses the same colors for conditionals, keywords and statements (less fruit-salad).
