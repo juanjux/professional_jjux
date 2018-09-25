@@ -64,4 +64,4 @@ hi IncSearch     gui=NONE guifg=#ffff00 guibg=#990000
 "hi Conditional   gui=none guifg=#660000 guibg=#ffffff
 hi Conditional   gui=none guifg=#ff0000 guibg=#ffffff
 hi browseDirectory  gui=none guifg=#660000 guibg=#ffffff
-
+hi CursorLine term=none cterm=none guibg=Grey80
